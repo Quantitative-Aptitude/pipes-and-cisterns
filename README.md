@@ -1,5 +1,3 @@
-# Pipes and Cisterns
-
-## Problems
+# Problems
 
 * SE-002
