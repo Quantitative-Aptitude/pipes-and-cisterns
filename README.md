@@ -1,3 +1,1 @@
-# Problems
-
-* SE-002
+* [SE-002](SE-002.md)
